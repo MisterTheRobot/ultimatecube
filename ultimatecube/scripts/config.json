@@ -1,0 +1,9 @@
+{
+    "start_color": [27, 200, 135],
+    "end_color": [250, 7, 38],
+    "gradient_steps": 40,
+    "gradient_type": "linear",
+    "cleanup_png": true, 
+    "cleanup_txt": true,
+    "move_output": true
+}
